@@ -1,2 +1,2 @@
-# Estudo-de-Cusltura-de-Seguran-a-do-Paciente-e-Mortalidade-Hospitalar
-R code for statistical analyses of the association between patient safety culture and risk-adjusted maternal and neonatal mortality using negative binomial models and plots.
+# Estudo de custo da doença- SUS - Transtorno do Espectro Austista
+Python code for statistical analyses of outpatient costs related to ASD in Brazil from 2013 to 2025, using High-Complexity Outpatient Procedure Authorizations (APACs) from the Ambulatory Information System of the Brazilian Unified Health System (SIA/SUS), considering sociodemographic characteristics, healthcare profile, and associated diagnoses. 
